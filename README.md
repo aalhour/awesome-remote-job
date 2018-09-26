@@ -176,6 +176,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Job boards aggregators
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [GoRemote.io](https://goremote.io/)
+  1. [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Only](https://remoteonly.io/) - A manually-curated list of jobs aggregated from many job boards.
@@ -194,6 +195,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
+  1. [Mokrin House](http://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
   1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
@@ -202,7 +204,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   1. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
-  1. [The Surf Office](https://www.thesurfoffice.com/) - Coworking & vacation space in Portugal, Canaries and California
+  1. [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
   1. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
 
@@ -281,7 +283,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [Demio](https://demio.com/inside/) - Webinar platform that just works.
-  1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
+  1. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
   1. [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
   1. [DNSimple](https://dnsimple.com) - Small 100% remote and globally distributed team working to make domain management an afterthought.
   1. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
@@ -310,7 +312,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](http://www.healthfinch.com/careers/) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
-  1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
+  1. [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
   1. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
@@ -324,6 +326,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Intellum](http://intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
+  1. [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
+  1. [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
   1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [LaunchPotato](http://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
@@ -344,6 +348,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, Javascript.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
+  1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
   1. [Nectafy](http://nectafy.com/jobs/) - Inbound marketing and content creation.
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
   1. [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
@@ -360,6 +365,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
   1. [Paylocity](http://www.paylocity.com/careers/) - HR and payroll solutions
   1. [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
+  1. [Pleo](https://careers.pleo.io/) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
