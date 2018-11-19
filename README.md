@@ -141,7 +141,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
-  1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
+  1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*[Anywhere](https://jobs.github.com/positions?description=&location=anywhere)/[Remote](https://jobs.github.com/positions?description=&location=remote)*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [HackerX](https://www.hackerx.org/jobs/)
@@ -258,6 +258,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
+  1. [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
   1. [Axelerant](https://www.axelerant.com/careers)
   1. [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
   1. [BaseCamp](http://basecamp.com/about/team) - Project management software.
@@ -488,6 +489,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
+  1. [Fiverr](https://www.fiverr.com/) - Fiverr is the world's largest freelance services marketplace for lean entrepreneurs, where you can hire remote workers to do small tasks for you.
   1. [Funretro](https://funretro.github.io/distributed) - Funretro is a retrospective online board for distributed teams.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
   1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
