@@ -15,6 +15,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Job boards](#job-boards)
 - [Job boards aggregators](#job-boards-aggregators)
 - [Housing](#housing)
+- [Relocation Incentives](#relocation-incentives)
 - [Interviewing](#interviewing)
 - [Events](#events)
 - [Newsletters](#newsletters)
@@ -211,7 +212,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
   1. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
-
+  
+## Relocation Incentives
+  1. [Tulsa Remote](https://tulsaremote.com/) - Get $10,000 cash to work from Tulsa.
+  1. [Vermont Remote Worker Grant Program](https://legislature.vermont.gov/assets/Documents/2018/Docs/BILLS/S-0094/S-0094%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
@@ -228,6 +232,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Newsletters
   1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
   1. [Remote Internships](http://foundersgrid.com/)
+  1. [Remote Jobs Direct](https://remotejobsdirect.com/) - A weekly newsletter covering a wide variety of remote jobs and related news.
   1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly
   1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
@@ -248,7 +253,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
   1. [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
-  1. [ALICE](https://www.aliceplatform.com/careers/) - We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
+  1. [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](http://blog.arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
@@ -358,6 +363,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, Javascript.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
+  1. [MVP Space](http://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
   1. [Nectafy](http://nectafy.com/jobs/) - Inbound marketing and content creation.
@@ -393,6 +399,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Scrapinghub](https://scrapinghub.com/jobs)
   1. [ServiceNow](http://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
   1. [ShakaCode](http://www.shakacode.com/about/index.html#work-with-us) - A global web development software consultancy and product company.
+  1. [Signal](https://www.signal.org/workworkwork/) - These people make the fantastic [Signal app](https://www.signal.org). US Only.
   1. [Simple](https://www.simple.com/careers)
   1. [Skyscrapers](http://skyscrapers.eu/jobs/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
   1. [SoftwareMill](https://softwaremill.com/join-us/)
@@ -483,6 +490,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+  1. [Outplanr](https://www.outplanr.com/) - Project and task management tool.
   1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
   1. [Notion](http://notion.so/) - All in one workspace to write, plan, collaborate, and get organized. 
